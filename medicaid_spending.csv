@@ -1,0 +1,351 @@
+Year,Brand Name,Generic Name,Total Spending,Prescription Fill Count,Unit Count
+2011,Abilify,Aripiprazole,1715769087,3007841,98263157
+2012,Abilify,Aripiprazole,1886082012,2934565,95211486
+2013,Abilify,Aripiprazole,2011387678,2749155,88801061
+2014,Abilify,Aripiprazole,2464660026,2877990,92806313
+2015,Abilify,Aripiprazole,2029596059,2074321,65711387
+2011,Adderall XR,Dextroamphetamine/Amphetamine,376431028.8,1613783,55728012
+2012,Adderall XR,Dextroamphetamine/Amphetamine,367706531.7,1511503,52209214
+2013,Adderall XR,Dextroamphetamine/Amphetamine,377512240.4,1519701,51845197
+2014,Adderall XR,Dextroamphetamine/Amphetamine,399346957.4,1612001,54756982
+2015,Adderall XR,Dextroamphetamine/Amphetamine,449064901.8,1805993,61283669
+2011,Advair Diskus,Fluticasone/Salmeterol,578947345.1,2462514,150975222
+2012,Advair Diskus,Fluticasone/Salmeterol,592900574.3,2359382,141530952
+2013,Advair Diskus,Fluticasone/Salmeterol,580242453.4,2077435,125291543
+2014,Advair Diskus,Fluticasone/Salmeterol,546197569.8,1801482,109589654
+2015,Advair Diskus,Fluticasone/Salmeterol,580892327.9,1758551,107436646
+2011,Advate,Antihemoph.FVIII/Full Length,96509765.99,2410,82601505
+2012,Advate,Antihemoph.FVIII/Full Length,162863507.5,7514,137846309
+2013,Advate,Antihemoph.FVIII/Full Length,272038970.9,15337,234628512
+2014,Advate,Antihemoph.FVIII/Full Length,330495286.8,17763,281643214
+2015,Advate,Antihemoph.FVIII/Full Length,353645102.3,16979,300873016
+2011,Anucort-HC,Hydrocortisone Acetate,145537.16,7350,172032
+2012,Anucort-HC,Hydrocortisone Acetate,91041.39,4186,96151
+2013,Anucort-HC,Hydrocortisone Acetate,131478.42,4543,103155
+2014,Anucort-HC,Hydrocortisone Acetate,992035.47,11402,247496
+2015,Anucort-HC,Hydrocortisone Acetate,5024488.15,18364,434496
+2011,Aripiprazole,Aripiprazole,n/a,n/a,n/a
+2012,Aripiprazole,Aripiprazole,n/a,n/a,n/a
+2013,Aripiprazole,Aripiprazole,n/a,n/a,n/a
+2014,Aripiprazole,Aripiprazole,n/a,n/a,n/a
+2015,Aripiprazole,Aripiprazole,605129203.4,947738,28720496
+2011,Ativan,Lorazepam,2411599.22,20813,662607
+2012,Ativan,Lorazepam,2859955.44,19385,596430
+2013,Ativan,Lorazepam,1530446.49,10861,227500
+2014,Ativan,Lorazepam,1651113.64,7743,171074
+2015,Ativan,Lorazepam,5263612.62,7168,141807
+2011,Atripla,Efavirenz/Emtricitab/Tenofovir,445351390.9,267745,8060752
+2012,Atripla,Efavirenz/Emtricitab/Tenofovir,501231119.5,280155,8404822
+2013,Atripla,Efavirenz/Emtricitab/Tenofovir,494445974.2,258157,7763284
+2014,Atripla,Efavirenz/Emtricitab/Tenofovir,579363530.5,278415,8450315
+2015,Atripla,Efavirenz/Emtricitab/Tenofovir,603023280.9,265692,8096820
+2011,Avastin,Bevacizumab,136142152.9,75086,950480
+2012,Avastin,Bevacizumab,141296626.8,93763,959702
+2013,Avastin,Bevacizumab,145109441.9,103654,983870
+2014,Avastin,Bevacizumab,155596096,123349,1044691
+2015,Avastin,Bevacizumab,187568405.9,144610,1329969
+2011,Carbamazepine,Carbamazepine,11436846.03,618588,99627263
+2012,Carbamazepine,Carbamazepine,11084267.11,617133,97762756
+2013,Carbamazepine,Carbamazepine,10324830.6,584314,91671797
+2014,Carbamazepine,Carbamazepine,17171163.41,564018,85180464
+2015,Carbamazepine,Carbamazepine,37741065.43,585130,86163517
+2011,Clindamycin Phos-Benzoyl Perox,Clindamycin Phos/Benzoyl Perox,n/a,n/a,n/a
+2012,Clindamycin Phos-Benzoyl Perox,Clindamycin Phos/Benzoyl Perox,469863.24,3149,142781
+2013,Clindamycin Phos-Benzoyl Perox,Clindamycin Phos/Benzoyl Perox,1609571,11159,503909
+2014,Clindamycin Phos-Benzoyl Perox,Clindamycin Phos/Benzoyl Perox,2809956.05,12290,552653
+2015,Clindamycin Phos-Benzoyl Perox,Clindamycin Phos/Benzoyl Perox,6564979.51,10413,460002
+2011,Clobetasol Propionate,Clobetasol Propionate,10157350.16,379057,20788507
+2012,Clobetasol Propionate,Clobetasol Propionate,14965039.58,448435,25103731
+2013,Clobetasol Propionate,Clobetasol Propionate,14849214.05,459091,26052735
+2014,Clobetasol Propionate,Clobetasol Propionate,39994684.22,537755,29086105
+2015,Clobetasol Propionate,Clobetasol Propionate,143846674.2,741509,45393879
+2011,Complera,Emtricitab/Rilpivirine/Tenofov,5481616.64,2949,87059
+2012,Complera,Emtricitab/Rilpivirine/Tenofov,74487189.16,39684,1185226
+2013,Complera,Emtricitab/Rilpivirine/Tenofov,143763697.3,73381,2194913
+2014,Complera,Emtricitab/Rilpivirine/Tenofov,236870080.7,112549,3389111
+2015,Complera,Emtricitab/Rilpivirine/Tenofov,313442459.1,138938,4210501
+2011,Copaxone,Glatiramer Acetate,172368194.6,49204,1469005
+2012,Copaxone,Glatiramer Acetate,209850070,51778,1549133
+2013,Copaxone,Glatiramer Acetate,219522998.3,47909,1466148
+2014,Copaxone,Glatiramer Acetate,236814053.3,48218,1350840
+2015,Copaxone,Glatiramer Acetate,279012517.7,51497,1127085
+2011,Daraprim,Pyrimethamine,1244111.73,4422,243178
+2012,Daraprim,Pyrimethamine,1904568,3944,202760
+2013,Daraprim,Pyrimethamine,2010214.06,3466,169957
+2014,Daraprim,Pyrimethamine,2220821.2,3404,162788
+2015,Daraprim,Pyrimethamine,15704936.08,2585,118175
+2011,Demerol,Meperidine HCl/PF,1241640.72,59795,186411
+2012,Demerol,Meperidine HCl/PF,1590541.73,64621,171376
+2013,Demerol,Meperidine HCl/PF,3177657.37,57556,174257
+2014,Demerol,Meperidine HCl/PF,1561499.17,47564,134722
+2015,Demerol,Meperidine HCl/PF,4900982.5,48806,136314
+2011,Econazole Nitrate,Econazole Nitrate,4814018.55,166713,9286592
+2012,Econazole Nitrate,Econazole Nitrate,3971118.96,170593,9534342
+2013,Econazole Nitrate,Econazole Nitrate,3312834.38,150475,8462710
+2014,Econazole Nitrate,Econazole Nitrate,9554375.84,167312,9343152
+2015,Econazole Nitrate,Econazole Nitrate,46206960.21,218702,12779028
+2011,Enbrel,Etanercept,196715312.9,101050,463544
+2012,Enbrel,Etanercept,222125192.2,104737,466419
+2013,Enbrel,Etanercept,255847098.5,108123,470496
+2014,Enbrel,Etanercept,321517923.9,118406,507708
+2015,Enbrel,Etanercept,437474118.4,136508,574449
+2011,Epitol,Carbamazepine,277221.5,40516,3982629
+2012,Epitol,Carbamazepine,276565.58,40968,3968786
+2013,Epitol,Carbamazepine,297404.23,45149,4521191
+2014,Epitol,Carbamazepine,406207.23,49384,4644816
+2015,Epitol,Carbamazepine,2706075.19,58483,5529061
+2011,Epzicom,Abacavir Sulfate/Lamivudine,105828019.3,115433,3436703
+2012,Epzicom,Abacavir Sulfate/Lamivudine,118730827.2,121222,3600412
+2013,Epzicom,Abacavir Sulfate/Lamivudine,122771477.8,118963,3530004
+2014,Epzicom,Abacavir Sulfate/Lamivudine,143400384.8,128558,3838551
+2015,Epzicom,Abacavir Sulfate/Lamivudine,141386148,117317,3493055
+2011,Fentanyl Citrate,Fentanyl Citrate/PF,17052716.27,275950,2709229
+2012,Fentanyl Citrate,Fentanyl Citrate/PF,15733571.7,285140,1459031
+2013,Fentanyl Citrate,Fentanyl Citrate/PF,25496160.38,307787,1586297
+2014,Fentanyl Citrate,Fentanyl Citrate/PF,17748227.38,381761,2361762
+2015,Fentanyl Citrate,Fentanyl Citrate/PF,55317741.42,474760,2898294
+2011,Flovent HFA,Fluticasone Propionate,280559007.5,1924032,22347142
+2012,Flovent HFA,Fluticasone Propionate,307448296,2071046,23846937
+2013,Flovent HFA,Fluticasone Propionate,333273790.3,2065708,23677972
+2014,Flovent HFA,Fluticasone Propionate,384198693.6,2114245,24448329
+2015,Flovent HFA,Fluticasone Propionate,441361058.5,2264825,26376028
+2011,Gleevec,Imatinib Mesylate,83306008.02,15994,732594
+2012,Gleevec,Imatinib Mesylate,95015376.24,16077,696191
+2013,Gleevec,Imatinib Mesylate,108417848.8,16455,699454
+2014,Gleevec,Imatinib Mesylate,140757059.6,18146,759114
+2015,Gleevec,Imatinib Mesylate,190583268.1,20001,820837
+2011,Glumetza,Metformin HCl,1801861.25,7029,384634
+2012,Glumetza,Metformin HCl,2312703.01,6226,350390
+2013,Glumetza,Metformin HCl,504276.05,1345,79077
+2014,Glumetza,Metformin HCl,1735866.62,3647,187975
+2015,Glumetza,Metformin HCl,16130816.37,7873,433709
+2011,Granisetron HCl,Granisetron HCl,4388589.64,28741,121345
+2012,Granisetron HCl,Granisetron HCl,2367076.48,37292,150447
+2013,Granisetron HCl,Granisetron HCl,2333644.92,41572,181499
+2014,Granisetron HCl,Granisetron HCl,2217699.39,42021,154702
+2015,Granisetron HCl,Granisetron HCl,7787084.06,43149,170769
+2011,H.P. Acthar,Corticotropin,40007316.65,965,7960
+2012,H.P. Acthar,Corticotropin,57409698.41,1303,9988
+2013,H.P. Acthar,Corticotropin,83938623.82,2021,14370
+2014,H.P. Acthar,Corticotropin,126837119.1,2798,20265
+2015,H.P. Acthar,Corticotropin,144565870.9,3278,21943
+2011,Harvoni,Ledipasvir/Sofosbuvir,n/a,n/a,n/a
+2012,Harvoni,Ledipasvir/Sofosbuvir,n/a,n/a,n/a
+2013,Harvoni,Ledipasvir/Sofosbuvir,n/a,n/a,n/a
+2014,Harvoni,Ledipasvir/Sofosbuvir,94713980.98,3039,82711
+2015,Harvoni,Ledipasvir/Sofosbuvir,2175155839,78467,1899599
+2011,Herceptin,Trastuzumab,115814945.5,51554,17241971
+2012,Herceptin,Trastuzumab,124472774.8,51709,18589416
+2013,Herceptin,Trastuzumab,140483848.5,53608,17951355
+2014,Herceptin,Trastuzumab,153188380,52934,36860152
+2015,Herceptin,Trastuzumab,174863752.5,53136,249490501
+2011,Humalog,Insulin Lispro,128527266.2,602919,10883844
+2012,Humalog,Insulin Lispro,145165128.1,626575,10974034
+2013,Humalog,Insulin Lispro,163224999.7,626112,10959216
+2014,Humalog,Insulin Lispro,237174937.6,760919,13067586
+2015,Humalog,Insulin Lispro,355593187.9,941420,16263036
+2011,Humira,Adalimumab,210393206.3,98707,236664
+2012,Humira,Adalimumab,265527469.8,114272,264249
+2013,Humira,Adalimumab,332779406.1,127339,296547
+2014,Humira,Adalimumab,491384804.6,163165,379175
+2015,Humira,Adalimumab,805458620.9,219266,510746
+2011,Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate,5254259.91,315532,17990718
+2012,Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate,4827378.9,348418,19374481
+2013,Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate,4711368.23,373650,21045522
+2014,Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate,7884035.83,429548,23768637
+2015,Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate,60001009.09,545452,30689576
+2011,Invega,Paliperidone; Paliperidone Palmitate,283641529.9,380435,8945035
+2012,Invega,Paliperidone; Paliperidone Palmitate,368629808.8,406323,8164773
+2013,Invega,Paliperidone; Paliperidone Palmitate,439996338.4,423737,7517710
+2014,Invega,Paliperidone; Paliperidone Palmitate,572245132.1,478699,7544525
+2015,Invega,Paliperidone; Paliperidone Palmitate,726297317.3,526070,7070908
+2011,Isentress,Raltegravir Potassium,160430308.8,165488,9804281
+2012,Isentress,Raltegravir Potassium,201553621.2,195434,11563252
+2013,Isentress,Raltegravir Potassium,219251614.5,204795,12141044
+2014,Isentress,Raltegravir Potassium,210191826.2,185422,11075133
+2015,Isentress,Raltegravir Potassium,231419270.6,188181,11242007
+2011,Lantus,Insulin Glargine;Hum.Rec.Anlog,410789437.2,2204518,36172479
+2012,Lantus,Insulin Glargine;Hum.Rec.Anlog,533281272.9,2517919,39907503
+2013,Lantus,Insulin Glargine;Hum.Rec.Anlog,680347460,2690587,41764107
+2014,Lantus,Insulin Glargine;Hum.Rec.Anlog,1034187426,3084170,46903122
+2015,Lantus,Insulin Glargine;Hum.Rec.Anlog,1435574715,3651839,56628614
+2011,Latuda,Lurasidone HCl,20951545.75,46649,1396767
+2012,Latuda,Lurasidone HCl,82735780.79,160905,5007643
+2013,Latuda,Lurasidone HCl,156660748,250199,8092255
+2014,Latuda,Lurasidone HCl,380711525.7,499039,15766955
+2015,Latuda,Lurasidone HCl,631424752.4,715975,22411612
+2011,Lyrica,Pregabalin,208052625.3,1080100,75574568
+2012,Lyrica,Pregabalin,215339528,1019589,69908882
+2013,Lyrica,Pregabalin,247204863.9,1002207,69159504
+2014,Lyrica,Pregabalin,340771924.5,1132296,78080953
+2015,Lyrica,Pregabalin,503093904.8,1356527,93920791
+2011,Mestinon,Pyridostigmine Bromide,1292158.48,7747,1209393
+2012,Mestinon,Pyridostigmine Bromide,1585182.85,8367,1291978
+2013,Mestinon,Pyridostigmine Bromide,1866396.29,8592,1423228
+2014,Mestinon,Pyridostigmine Bromide,3487625.78,9076,1446769
+2015,Mestinon,Pyridostigmine Bromide,7777043.09,7268,1378526
+2011,Methylphenidate ER,Methylphenidate HCl,226032289.6,1332576,44673828
+2012,Methylphenidate ER,Methylphenidate HCl,494115100.3,2932089,97797230
+2013,Methylphenidate ER,Methylphenidate HCl,578534690.3,3456299,114809040
+2014,Methylphenidate ER,Methylphenidate HCl,581063019.4,3565690,117959390
+2015,Methylphenidate ER,Methylphenidate HCl,700422207.7,3576101,117720481
+2011,Morphine Sulfate,Morphine Sulfate,20089793.94,576161,31066801
+2012,Morphine Sulfate,Morphine Sulfate,18874212.13,524402,25031945
+2013,Morphine Sulfate,Morphine Sulfate,28093099.39,518903,24406841
+2014,Morphine Sulfate,Morphine Sulfate,22174470.21,547753,24484078
+2015,Morphine Sulfate,Morphine Sulfate,41389726.8,662978,24164147
+2011,Naproxen Sodium,Naproxen Sodium,3945988.62,341672,13241368
+2012,Naproxen Sodium,Naproxen Sodium,3594078.48,340547,13033443
+2013,Naproxen Sodium,Naproxen Sodium,3132203.27,319877,12465049
+2014,Naproxen Sodium,Naproxen Sodium,3107232,342203,13187783
+2015,Naproxen Sodium,Naproxen Sodium,10126814.68,370485,14391095
+2011,Neulasta,Pegfilgrastim,201549146.4,74421,45264
+2012,Neulasta,Pegfilgrastim,223802718.1,74648,44768
+2013,Neulasta,Pegfilgrastim,225037002.7,72410,44542
+2014,Neulasta,Pegfilgrastim,250666150.3,74031,49499
+2015,Neulasta,Pegfilgrastim,281953812.2,75594,49222
+2011,Norditropin Flexpro,Somatropin,65292769.23,24371,131991
+2012,Norditropin Flexpro,Somatropin,90671075.73,32740,175485
+2013,Norditropin Flexpro,Somatropin,119873509.7,40357,215776
+2014,Norditropin Flexpro,Somatropin,207839835,64291,337708
+2015,Norditropin Flexpro,Somatropin,274934629.5,79156,411022
+2011,Novoseven RT,Coagulation Factor VIIa;Recomb,192416704.2,4138,2154288
+2012,Novoseven RT,Coagulation Factor VIIa;Recomb,214688850.7,3804,41272
+2013,Novoseven RT,Coagulation Factor VIIa;Recomb,219524143,3447,150377
+2014,Novoseven RT,Coagulation Factor VIIa;Recomb,231169540.5,3288,163231
+2015,Novoseven RT,Coagulation Factor VIIa;Recomb,298183999.4,4444,205524
+2011,Phenergan,Promethazine HCl,151314.92,12687,43173
+2012,Phenergan,Promethazine HCl,198567.09,11335,34272
+2013,Phenergan,Promethazine HCl,203822.01,9770,25276
+2014,Phenergan,Promethazine HCl,224123.62,9026,19409
+2015,Phenergan,Promethazine HCl,2569273.56,10047,27034
+2011,Prezista,Darunavir Ethanolate,155019081.9,159829,9488371
+2012,Prezista,Darunavir Ethanolate,206827555.4,200271,11810974
+2013,Prezista,Darunavir Ethanolate,243728795.7,223170,9263793
+2014,Prezista,Darunavir Ethanolate,319292671.7,273130,10174256
+2015,Prezista,Darunavir Ethanolate,334742618.3,265823,9766916
+2011,Proair HFA,Albuterol Sulfate,221936930,4784692,44759787
+2012,Proair HFA,Albuterol Sulfate,270467510.4,5455972,51084043
+2013,Proair HFA,Albuterol Sulfate,285949647.1,5404529,51160455
+2014,Proair HFA,Albuterol Sulfate,348053122.8,6204573,59049877
+2015,Proair HFA,Albuterol Sulfate,391742228.3,6690081,63834023
+2011,Proctosol-HC,Hydrocortisone,906257.35,84825,2625399
+2012,Proctosol-HC,Hydrocortisone,858331.44,89636,2841918
+2013,Proctosol-HC,Hydrocortisone,1001152.89,87127,2780058
+2014,Proctosol-HC,Hydrocortisone,1729414.68,87143,2721920
+2015,Proctosol-HC,Hydrocortisone,7195573.51,146493,4715281
+2011,Pulmozyme,Dornase Alfa,148321948.6,61555,5539490
+2012,Pulmozyme,Dornase Alfa,164108804.8,63223,5682069
+2013,Pulmozyme,Dornase Alfa,178359667.9,64509,5799426
+2014,Pulmozyme,Dornase Alfa,201973564.9,66530,6023737
+2015,Pulmozyme,Dornase Alfa,223994304.7,66738,6047738
+2011,Quelicin,Succinylcholine Chloride,947953.66,17876,142622
+2012,Quelicin,Succinylcholine Chloride,1194872.88,22282,184396
+2013,Quelicin,Succinylcholine Chloride,1570619.23,22785,163442
+2014,Quelicin,Succinylcholine Chloride,2153157.73,26586,205291
+2015,Quelicin,Succinylcholine Chloride,6576409.53,29416,247440
+2011,Remicade,Infliximab,104468628.5,40473,179186
+2012,Remicade,Infliximab,122215650.7,42291,197190
+2013,Remicade,Infliximab,129283305.4,42768,211643
+2014,Remicade,Infliximab,157316629.1,46968,229241
+2015,Remicade,Infliximab,188694622.1,52764,380354
+2011,Retin-A Micro,Tretinoin Microspheres,6598062.93,31830,1215177
+2012,Retin-A Micro,Tretinoin Microspheres,10226789.35,39562,1502417
+2013,Retin-A Micro,Tretinoin Microspheres,10468573.89,25081,957275
+2014,Retin-A Micro,Tretinoin Microspheres,7104706.99,11831,451038
+2015,Retin-A Micro,Tretinoin Microspheres,3257070.79,1667,61441
+2011,Revlimid,Lenalidomide,61221110.99,7813,169687
+2012,Revlimid,Lenalidomide,78603811.75,9249,202743
+2013,Revlimid,Lenalidomide,94350715.64,10670,228825
+2014,Revlimid,Lenalidomide,113318166.7,12222,257143
+2015,Revlimid,Lenalidomide,144095512.6,14475,300868
+2011,Reyataz,Atazanavir Sulfate,239583340.5,252743,8703241
+2012,Reyataz,Atazanavir Sulfate,257643886.9,256659,8632719
+2013,Reyataz,Atazanavir Sulfate,251457679.1,228462,7623615
+2014,Reyataz,Atazanavir Sulfate,258506957,217307,7217409
+2015,Reyataz,Atazanavir Sulfate,232540885,178383,5923675
+2011,Sabril,Vigabatrin,29427215.03,7534,829249
+2012,Sabril,Vigabatrin,41843681.68,8972,1073222
+2013,Sabril,Vigabatrin,63825229.39,10120,1232183
+2014,Sabril,Vigabatrin,92897716.92,11724,1382319
+2015,Sabril,Vigabatrin,132477849.3,13297,1569150
+2011,Seroquel XR,Quetiapine Fumarate,371592404.1,952900,36177324
+2012,Seroquel XR,Quetiapine Fumarate,408935887.2,887711,33540042
+2013,Seroquel XR,Quetiapine Fumarate,414436247.7,751376,28601775
+2014,Seroquel XR,Quetiapine Fumarate,445187641.6,737064,28027355
+2015,Seroquel XR,Quetiapine Fumarate,483117339.1,743257,28050728
+2011,Sovaldi,Sofosbuvir,n/a,n/a,n/a
+2012,Sovaldi,Sofosbuvir,n/a,n/a,n/a
+2013,Sovaldi,Sofosbuvir,4056144.36,144,4034
+2014,Sovaldi,Sofosbuvir,1386209781,50377,1354319
+2015,Sovaldi,Sofosbuvir,618445599.2,27228,631658
+2011,Spiriva,Tiotropium Bromide,215473653.8,936931,28940707
+2012,Spiriva,Tiotropium Bromide,268436970.9,1047429,31776988
+2013,Spiriva,Tiotropium Bromide,302903950.3,1089524,33153630
+2014,Spiriva,Tiotropium Bromide,355206882.7,1195180,36565688
+2015,Spiriva,Tiotropium Bromide,406925455.7,1255363,38363816
+2011,Stribild,Elvitegr/Cobicist/Emtric/Tenof,n/a,n/a,n/a
+2012,Stribild,Elvitegr/Cobicist/Emtric/Tenof,6001308.74,2520,74703
+2013,Stribild,Elvitegr/Cobicist/Emtric/Tenof,92080869.04,38611,1158003
+2014,Stribild,Elvitegr/Cobicist/Emtric/Tenof,271651379.3,106636,3218743
+2015,Stribild,Elvitegr/Cobicist/Emtric/Tenof,455245057,176445,5279490
+2011,Suboxone,Buprenorphine HCl/Naloxone HCl,318060139.8,1198265,48316821
+2012,Suboxone,Buprenorphine HCl/Naloxone HCl,391667331.8,1407720,53801139
+2013,Suboxone,Buprenorphine HCl/Naloxone HCl,366652844.4,1426840,50373708
+2014,Suboxone,Buprenorphine HCl/Naloxone HCl,383911695.8,1632966,53784215
+2015,Suboxone,Buprenorphine HCl/Naloxone HCl,478918141.8,2051871,66495312
+2011,Symbicort,Budesonide/Formoterol Fumarate,128740153.2,621462,6467805
+2012,Symbicort,Budesonide/Formoterol Fumarate,153732118.2,698988,7182907
+2013,Symbicort,Budesonide/Formoterol Fumarate,201057262,858102,8793122
+2014,Symbicort,Budesonide/Formoterol Fumarate,307345852.5,1224900,12539099
+2015,Symbicort,Budesonide/Formoterol Fumarate,455006228.6,1682405,17264049
+2011,Synagis,Palivizumab,422977347.3,210258,200908
+2012,Synagis,Palivizumab,399936520.1,185864,178606
+2013,Synagis,Palivizumab,387004168.6,174691,166384
+2014,Synagis,Palivizumab,346489424.6,150517,144470
+2015,Synagis,Palivizumab,233898451.2,100034,93326
+2011,Tecfidera,Dimethyl Fumarate,n/a,n/a,n/a
+2012,Tecfidera,Dimethyl Fumarate,n/a,n/a,n/a
+2013,Tecfidera,Dimethyl Fumarate,32708030.49,7213,311534
+2014,Tecfidera,Dimethyl Fumarate,142023983.8,28543,1523168
+2015,Tecfidera,Dimethyl Fumarate,218542809.8,39697,2249996
+2011,Tivicay,Dolutegravir Sodium,n/a,n/a,n/a
+2012,Tivicay,Dolutegravir Sodium,n/a,n/a,n/a
+2013,Tivicay,Dolutegravir Sodium,3846612.06,2908,96099
+2014,Tivicay,Dolutegravir Sodium,90823577.69,66845,2112482
+2015,Tivicay,Dolutegravir Sodium,192476940.6,132094,4175923
+2011,Triumeq,Abacavir/Dolutegravir/Lamivudi,n/a,n/a,n/a
+2012,Triumeq,Abacavir/Dolutegravir/Lamivudi,n/a,n/a,n/a
+2013,Triumeq,Abacavir/Dolutegravir/Lamivudi,n/a,n/a,n/a
+2014,Triumeq,Abacavir/Dolutegravir/Lamivudi,7501130.78,3147,94867
+2015,Triumeq,Abacavir/Dolutegravir/Lamivudi,198450694.5,81914,2472675
+2011,Truvada,Emtricitabine/Tenofovir,457327611.8,427891,12715594
+2012,Truvada,Emtricitabine/Tenofovir,553732039.6,470894,13956559
+2013,Truvada,Emtricitabine/Tenofovir,522333513,423082,12528339
+2014,Truvada,Emtricitabine/Tenofovir,616663462.2,473162,14167254
+2015,Truvada,Emtricitabine/Tenofovir,736377749.2,527386,15841566
+2011,Ventolin HFA,Albuterol Sulfate,199072297.7,4889379,95528093
+2012,Ventolin HFA,Albuterol Sulfate,218962665.4,5123890,98165647
+2013,Ventolin HFA,Albuterol Sulfate,233146294.5,5331556,101251271
+2014,Ventolin HFA,Albuterol Sulfate,268662835.9,5769592,108729314
+2015,Ventolin HFA,Albuterol Sulfate,355949411.5,7227336,137207544
+2011,Viekira Pak,Ombita/Paritap/Riton/Dasabuvir,n/a,n/a,n/a
+2012,Viekira Pak,Ombita/Paritap/Riton/Dasabuvir,n/a,n/a,n/a
+2013,Viekira Pak,Ombita/Paritap/Riton/Dasabuvir,n/a,n/a,n/a
+2014,Viekira Pak,Ombita/Paritap/Riton/Dasabuvir,n/a,n/a,n/a
+2015,Viekira Pak,Ombita/Paritap/Riton/Dasabuvir,210251894.5,8612,219696
+2011,Vyvanse,Lisdexamfetamine Dimesylate,385235408.5,2453085,75585425
+2012,Vyvanse,Lisdexamfetamine Dimesylate,477289949.2,2889840,87982318
+2013,Vyvanse,Lisdexamfetamine Dimesylate,559256431.8,3078059,93033305
+2014,Vyvanse,Lisdexamfetamine Dimesylate,659026201.5,3238498,97603321
+2015,Vyvanse,Lisdexamfetamine Dimesylate,782651740.8,3496935,105191740
+2011,Xifaxan,Rifaximin,42101174.64,42479,2553515
+2012,Xifaxan,Rifaximin,55450667.61,52056,2895217
+2013,Xifaxan,Rifaximin,69313954.53,60711,3315483
+2014,Xifaxan,Rifaximin,86374999.6,71639,3815935
+2015,Xifaxan,Rifaximin,135449722.8,93982,4990335
+2011,Xolair,Omalizumab,68990855.93,35213,109446
+2012,Xolair,Omalizumab,79667506.47,36764,119189
+2013,Xolair,Omalizumab,89145789.01,38655,130690
+2014,Xolair,Omalizumab,108658327.2,44952,141874
+2015,Xolair,Omalizumab,139144338.5,55631,176690
