@@ -138,7 +138,7 @@ def display_table(year, year_list):
                   prescription[5],
                   prescription[2]/1000
                   )
-              )
+             )
 
 
 def plot_top_ten(x, y, title, xlabel, ylabel):
@@ -179,7 +179,7 @@ def main():
         try:
             year = int(year)
             if not 2011 <= year <= 2015:
-                raise(ValueError)
+                raise ValueError
             break
         except ValueError:
             print(YEAR_ERROR)
