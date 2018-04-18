@@ -1,0 +1,14 @@
+=== Random ===
+Average time to complete 762.52
+Min time to complete 299.50
+Max time to complete 1246.00
+Average wait time 314.91
+Min wait time 1.60
+Max wait time 1170.00
+=== Strategy ===
+Average time to complete 346.13
+Min time to complete 188.00
+Max time to complete 521.00
+Average wait time 112.85
+Min wait time 4.00
+Max wait time 463.00
